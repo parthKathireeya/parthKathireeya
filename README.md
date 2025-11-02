@@ -63,7 +63,7 @@ A custom content management system built using Core PHP and MySQL.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -95,18 +95,5 @@ A custom content management system built using Core PHP and MySQL.
 ---
 
 <p align="center">
-  🕓 <em>Last updated: </em>
+  🕓 <em>Last updated: October 02, 2025 </em>
 </p>
-<!-- Optional banner (replace link if you have one) -->
-<!-- ![Banner](https://your-image-url.com/banner.jpg) -->
-
-<h1 align="center">👋 Hi, I'm Parth Kathireeya</h1>
-<h3 align="center">Backend Developer | PHP · Laravel · CodeIgniter · SQL</h3>
-
-<p align="center">
-  📍 Ahmedabad, Gujarat, India <br>
-  📧 <a href="mailto:parthkatheereeya@gmail.com">parthkatheereeya@gmail.com</a> <br>
-  🔗 <a href="https://linkedin.com/in/parth-kathireeya" target="_blank">LinkedIn Profile</a>
-</p>
-
----
