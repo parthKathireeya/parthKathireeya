@@ -1,73 +1,540 @@
-<!--
-🖼️ You can add a banner image here if you like:
-![Banner](https://your-image-url.com/banner.jpg)
--->
+<!-- Optional banner (replace link if you have one) -->
+<!-- ![Banner](https://your-image-url.com/banner.jpg) -->
 
-# 👋 Hi there, I’m **Parth Kathireeya**
+<h1 align="center">👋 Hi, I'm Parth Kathireeya</h1>
+<h3 align="center">Backend Developer | PHP · Laravel · CodeIgniter · SQL</h3>
 
-### Backend Developer | PHP · Laravel · CodeIgniter · SQL  
-📍 Ahmedabad, Gujarat, India  
-📧 parthkatheereeya@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/parth-kathireeya)  
+<p align="center">
+  📍 Ahmedabad, Gujarat, India <br>
+  📧 <a href="mailto:parthkatheereeya@gmail.com">parthkatheereeya@gmail.com</a> <br>
+  🔗 <a href="https://linkedin.com/in/parth-kathireeya" target="_blank">LinkedIn Profile</a>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me  
-I’m a passionate backend developer with expertise in PHP, Laravel and CodeIgniter frameworks, as well as core web technologies like HTML, CSS, jQuery and SQL. I build scalable, clean and maintainable web applications and tools.  
-Currently based in Ahmedabad, Gujarat, India, I am always looking to take on interesting projects and collaborate with driven teams.
 
----
+I’m a passionate **Backend Developer** skilled in **PHP, Laravel, and CodeIgniter** frameworks.  
+I enjoy building efficient, scalable, and secure web applications while writing clean, reusable code.  
 
-## 🛠️ Skills & Technologies  
-
-**Languages & Tools**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frameworks & Libraries**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)  
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Web & Others**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+- 💼 Currently available for freelance or remote backend development opportunities.  
+- 🌱 Continuously improving in **API development** and **database optimization**.  
+- ⚡ Fun fact: I love exploring new frameworks and optimizing queries in my free time.
 
 ---
 
 ## 🧩 Featured Projects  
-*(Links and images pulled from my LinkedIn profile — update or replace as needed)*
 
-### Project Name 1  
-🎯 Description: Brief about what this project does.  
-🔗 [View on GitHub/Live](https://example.com)  
-![Screenshot](https://example.com/image1.png)
+*(Project details can be pulled from your LinkedIn — replace placeholders below)*  
 
-### Project Name 2  
-🎯 Description: Brief about what this project does.  
-🔗 [View on GitHub/Live](https://example.com)  
-![Screenshot](https://example.com/image2.png)
+### 🔹 Project 1 — Task Manager App  
+A Laravel-based task manager with OTP email verification, Toastr alerts, and AJAX CRUD operations.  
+🔗 [View Project](https://github.com/parthkathireeya/task-manager)  
+<img src="https://via.placeholder.com/600x300.png?text=Task+Manager+App" width="600" alt="Task Manager Screenshot">
 
-### Project Name 3  
-🎯 Description: Brief about what this project does.  
-🔗 [View on GitHub/Live](https://example.com)  
-![Screenshot](https://example.com/image3.png)
+### 🔹 Project 2 — Instagram Reel Downloader  
+A responsive Laravel tool to download Instagram Reels with a single click.  
+🔗 [View Project](https://github.com/parthkathireeya/insta-reel-downloader)  
+<img src="https://via.placeholder.com/600x300.png?text=Instagram+Reel+Downloader" width="600" alt="Insta Reel Downloader">
 
-> *You can add more projects the same way (image + one-liner + link).*
-
----
-
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-kathireeya)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthkatheereeya@gmail.com)  
+### 🔹 Project 3 — Core PHP CMS  
+A custom content management system built using Core PHP and MySQL.  
+🔗 [View Project](https://github.com/parthkathireeya/php-cms)  
+<img src="https://via.placeholder.com/600x300.png?text=Core+PHP+CMS" width="600" alt="Core PHP CMS">
 
 ---
 
-## 💬 Fun Fact  
-When I’m not coding, I love to explore new backend tools, refine my database designs or enjoy listening to tech podcasts.  
+## 🛠️ Languages and Tools  
+
+<p align="left"> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+</p>
 
 ---
 
-_Last updated: **\`YYYY-MM-DD\`_  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthkathireeya&show_icons=true&theme=radical" alt="Parth's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkathireeya&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/parth-kathireeya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:parthkatheereeya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/parthkathireeya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🕓 <em>Last updated: {{ current date }}</em>
+</p>
+<!-- Optional banner (replace link if you have one) -->
+<!-- ![Banner](https://your-image-url.com/banner.jpg) -->
+
+<h1 align="center">👋 Hi, I'm Parth Kathireeya</h1>
+<h3 align="center">Backend Developer | PHP · Laravel · CodeIgniter · SQL</h3>
+
+<p align="center">
+  📍 Ahmedabad, Gujarat, India <br>
+  📧 <a href="mailto:parthkatheereeya@gmail.com">parthkatheereeya@gmail.com</a> <br>
+  🔗 <a href="https://linkedin.com/in/parth-kathireeya" target="_blank">LinkedIn Profile</a>
+</p>
+
+---
+
+## 🧑‍💻 About Me  
+
+I’m a passionate **Backend Developer** skilled in **PHP, Laravel, and CodeIgniter** frameworks.  
+I enjoy building efficient, scalable, and secure web applications while writing clean, reusable code.  
+
+- 💼 Currently available for freelance or remote backend development opportunities.  
+- 🌱 Continuously improving in **API development** and **database optimization**.  
+- ⚡ Fun fact: I love exploring new frameworks and optimizing queries in my free time.
+
+---
+
+## 🧩 Featured Projects  
+
+*(Project details can be pulled from your LinkedIn — replace placeholders below)*  
+
+### 🔹 Project 1 — Task Manager App  
+A Laravel-based task manager with OTP email verification, Toastr alerts, and AJAX CRUD operations.  
+🔗 [View Project](https://github.com/parthkathireeya/task-manager)  
+<img src="https://via.placeholder.com/600x300.png?text=Task+Manager+App" width="600" alt="Task Manager Screenshot">
+
+### 🔹 Project 2 — Instagram Reel Downloader  
+A responsive Laravel tool to download Instagram Reels with a single click.  
+🔗 [View Project](https://github.com/parthkathireeya/insta-reel-downloader)  
+<img src="https://via.placeholder.com/600x300.png?text=Instagram+Reel+Downloader" width="600" alt="Insta Reel Downloader">
+
+### 🔹 Project 3 — Core PHP CMS  
+A custom content management system built using Core PHP and MySQL.  
+🔗 [View Project](https://github.com/parthkathireeya/php-cms)  
+<img src="https://via.placeholder.com/600x300.png?text=Core+PHP+CMS" width="600" alt="Core PHP CMS">
+
+---
+
+## 🛠️ Languages and Tools  
+
+<p align="left"> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthkathireeya&show_icons=true&theme=radical" alt="Parth's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkathireeya&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/parth-kathireeya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:parthkatheereeya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/parthkathireeya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🕓 <em>Last updated: {{ current date }}</em>
+</p>
+<!-- Optional banner (replace link if you have one) -->
+<!-- ![Banner](https://your-image-url.com/banner.jpg) -->
+
+<h1 align="center">👋 Hi, I'm Parth Kathireeya</h1>
+<h3 align="center">Backend Developer | PHP · Laravel · CodeIgniter · SQL</h3>
+
+<p align="center">
+  📍 Ahmedabad, Gujarat, India <br>
+  📧 <a href="mailto:parthkatheereeya@gmail.com">parthkatheereeya@gmail.com</a> <br>
+  🔗 <a href="https://linkedin.com/in/parth-kathireeya" target="_blank">LinkedIn Profile</a>
+</p>
+
+---
+
+## 🧑‍💻 About Me  
+
+I’m a passionate **Backend Developer** skilled in **PHP, Laravel, and CodeIgniter** frameworks.  
+I enjoy building efficient, scalable, and secure web applications while writing clean, reusable code.  
+
+- 💼 Currently available for freelance or remote backend development opportunities.  
+- 🌱 Continuously improving in **API development** and **database optimization**.  
+- ⚡ Fun fact: I love exploring new frameworks and optimizing queries in my free time.
+
+---
+
+## 🧩 Featured Projects  
+
+*(Project details can be pulled from your LinkedIn — replace placeholders below)*  
+
+### 🔹 Project 1 — Task Manager App  
+A Laravel-based task manager with OTP email verification, Toastr alerts, and AJAX CRUD operations.  
+🔗 [View Project](https://github.com/parthkathireeya/task-manager)  
+<img src="https://via.placeholder.com/600x300.png?text=Task+Manager+App" width="600" alt="Task Manager Screenshot">
+
+### 🔹 Project 2 — Instagram Reel Downloader  
+A responsive Laravel tool to download Instagram Reels with a single click.  
+🔗 [View Project](https://github.com/parthkathireeya/insta-reel-downloader)  
+<img src="https://via.placeholder.com/600x300.png?text=Instagram+Reel+Downloader" width="600" alt="Insta Reel Downloader">
+
+### 🔹 Project 3 — Core PHP CMS  
+A custom content management system built using Core PHP and MySQL.  
+🔗 [View Project](https://github.com/parthkathireeya/php-cms)  
+<img src="https://via.placeholder.com/600x300.png?text=Core+PHP+CMS" width="600" alt="Core PHP CMS">
+
+---
+
+## 🛠️ Languages and Tools  
+
+<p align="left"> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthkathireeya&show_icons=true&theme=radical" alt="Parth's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkathireeya&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/parth-kathireeya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:parthkatheereeya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/parthkathireeya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🕓 <em>Last updated: {{ current date }}</em>
+</p>
+<!-- Optional banner (replace link if you have one) -->
+<!-- ![Banner](https://your-image-url.com/banner.jpg) -->
+
+<h1 align="center">👋 Hi, I'm Parth Kathireeya</h1>
+<h3 align="center">Backend Developer | PHP · Laravel · CodeIgniter · SQL</h3>
+
+<p align="center">
+  📍 Ahmedabad, Gujarat, India <br>
+  📧 <a href="mailto:parthkatheereeya@gmail.com">parthkatheereeya@gmail.com</a> <br>
+  🔗 <a href="https://linkedin.com/in/parth-kathireeya" target="_blank">LinkedIn Profile</a>
+</p>
+
+---
+
+## 🧑‍💻 About Me  
+
+I’m a passionate **Backend Developer** skilled in **PHP, Laravel, and CodeIgniter** frameworks.  
+I enjoy building efficient, scalable, and secure web applications while writing clean, reusable code.  
+
+- 💼 Currently available for freelance or remote backend development opportunities.  
+- 🌱 Continuously improving in **API development** and **database optimization**.  
+- ⚡ Fun fact: I love exploring new frameworks and optimizing queries in my free time.
+
+---
+
+## 🧩 Featured Projects  
+
+*(Project details can be pulled from your LinkedIn — replace placeholders below)*  
+
+### 🔹 Project 1 — Task Manager App  
+A Laravel-based task manager with OTP email verification, Toastr alerts, and AJAX CRUD operations.  
+🔗 [View Project](https://github.com/parthkathireeya/task-manager)  
+<img src="https://via.placeholder.com/600x300.png?text=Task+Manager+App" width="600" alt="Task Manager Screenshot">
+
+### 🔹 Project 2 — Instagram Reel Downloader  
+A responsive Laravel tool to download Instagram Reels with a single click.  
+🔗 [View Project](https://github.com/parthkathireeya/insta-reel-downloader)  
+<img src="https://via.placeholder.com/600x300.png?text=Instagram+Reel+Downloader" width="600" alt="Insta Reel Downloader">
+
+### 🔹 Project 3 — Core PHP CMS  
+A custom content management system built using Core PHP and MySQL.  
+🔗 [View Project](https://github.com/parthkathireeya/php-cms)  
+<img src="https://via.placeholder.com/600x300.png?text=Core+PHP+CMS" width="600" alt="Core PHP CMS">
+
+---
+
+## 🛠️ Languages and Tools  
+
+<p align="left"> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthkathireeya&show_icons=true&theme=radical" alt="Parth's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkathireeya&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/parth-kathireeya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:parthkatheereeya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/parthkathireeya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🕓 <em>Last updated: {{ current date }}</em>
+</p>
+<!-- Optional banner (replace link if you have one) -->
+<!-- ![Banner](https://your-image-url.com/banner.jpg) -->
+
+<h1 align="center">👋 Hi, I'm Parth Kathireeya</h1>
+<h3 align="center">Backend Developer | PHP · Laravel · CodeIgniter · SQL</h3>
+
+<p align="center">
+  📍 Ahmedabad, Gujarat, India <br>
+  📧 <a href="mailto:parthkatheereeya@gmail.com">parthkatheereeya@gmail.com</a> <br>
+  🔗 <a href="https://linkedin.com/in/parth-kathireeya" target="_blank">LinkedIn Profile</a>
+</p>
+
+---
+
+## 🧑‍💻 About Me  
+
+I’m a passionate **Backend Developer** skilled in **PHP, Laravel, and CodeIgniter** frameworks.  
+I enjoy building efficient, scalable, and secure web applications while writing clean, reusable code.  
+
+- 💼 Currently available for freelance or remote backend development opportunities.  
+- 🌱 Continuously improving in **API development** and **database optimization**.  
+- ⚡ Fun fact: I love exploring new frameworks and optimizing queries in my free time.
+
+---
+
+## 🧩 Featured Projects  
+
+*(Project details can be pulled from your LinkedIn — replace placeholders below)*  
+
+### 🔹 Project 1 — Task Manager App  
+A Laravel-based task manager with OTP email verification, Toastr alerts, and AJAX CRUD operations.  
+🔗 [View Project](https://github.com/parthkathireeya/task-manager)  
+<img src="https://via.placeholder.com/600x300.png?text=Task+Manager+App" width="600" alt="Task Manager Screenshot">
+
+### 🔹 Project 2 — Instagram Reel Downloader  
+A responsive Laravel tool to download Instagram Reels with a single click.  
+🔗 [View Project](https://github.com/parthkathireeya/insta-reel-downloader)  
+<img src="https://via.placeholder.com/600x300.png?text=Instagram+Reel+Downloader" width="600" alt="Insta Reel Downloader">
+
+### 🔹 Project 3 — Core PHP CMS  
+A custom content management system built using Core PHP and MySQL.  
+🔗 [View Project](https://github.com/parthkathireeya/php-cms)  
+<img src="https://via.placeholder.com/600x300.png?text=Core+PHP+CMS" width="600" alt="Core PHP CMS">
+
+---
+
+## 🛠️ Languages and Tools  
+
+<p align="left"> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthkathireeya&show_icons=true&theme=radical" alt="Parth's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkathireeya&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/parth-kathireeya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:parthkatheereeya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/parthkathireeya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🕓 <em>Last updated: {{ current date }}</em>
+</p>
