@@ -27,21 +27,10 @@ I enjoy building efficient, scalable, and secure web applications while writing 
 
 *(Project details can be pulled from your LinkedIn — replace placeholders below)*  
 
-### 🔹 Project 1 — Task Manager App  
-A Laravel-based task manager with OTP email verification, Toastr alerts, and AJAX CRUD operations.  
-🔗 [View Project](https://github.com/parthkathireeya/task-manager)  
-<img src="https://via.placeholder.com/600x300.png?text=Task+Manager+App" width="600" alt="Task Manager Screenshot">
-
-### 🔹 Project 2 — Instagram Reel Downloader  
-A responsive Laravel tool to download Instagram Reels with a single click.  
-🔗 [View Project](https://github.com/parthkathireeya/insta-reel-downloader)  
-<img src="https://via.placeholder.com/600x300.png?text=Instagram+Reel+Downloader" width="600" alt="Insta Reel Downloader">
-
-### 🔹 Project 3 — Core PHP CMS  
-A custom content management system built using Core PHP and MySQL.  
-🔗 [View Project](https://github.com/parthkathireeya/php-cms)  
-<img src="https://via.placeholder.com/600x300.png?text=Core+PHP+CMS" width="600" alt="Core PHP CMS">
-
+### 🔹 Buildbazar — Ecomerce website  
+BuildBazar is an open platform where iron and steel manufacturers, buyers, and traders connect with each other.
+🔗 [View Project](https://buildbazar.in/)  
+<img src="https://media.licdn.com/dms/image/v2/D4D2DAQEdd5LiKl35DA/profile-treasury-image-shrink_480_480/B4DZo.9Xz1KUAU-/0/1761992868905?e=1762686000&v=beta&t=CvzbBUAEIJiNRTknktuowJHAUuMbngnr1_cihs6ipgk" width="600" alt="Task Manager Screenshot">
 ---
 
 ## 🛠️ Languages and Tools  
