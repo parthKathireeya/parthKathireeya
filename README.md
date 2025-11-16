@@ -64,30 +64,32 @@ A comprehensive task and project management system built with **Laravel 11**, fe
 
 <table>
 <tr>
-<td width="33.33%" valign="top">
-<img src="https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/login.png" width="100%" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 10px;"/>
+<td width="50%" valign="top" style="padding: 10px;">
+<img src="https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/login.png" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: block; margin: 0 auto;"/>
 <br/>
 <sub><b>Login Page</b><br/>Clean and minimalist login form</sub>
 </td>
-<td width="33.33%" valign="top">
-<img src="https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/chate-bot.png" width="100%" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 10px;"/>
+<td width="50%" valign="top" style="padding: 10px;">
+<img src="https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/chate-bot.png" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: block; margin: 0 auto;"/>
 <br/>
 <sub><b>Projects with Chat</b><br/>Real-time chat overlay with FAB</sub>
 </td>
-<td width="33.33%" valign="top">
-<img src="https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/edit-project.png.png" width="100%" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 10px;"/>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding: 10px;">
+<img src="https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/edit-project.png.png" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: block; margin: 0 auto;"/>
 <br/>
 <sub><b>Edit Project Form</b><br/>Multi-client assignment interface</sub>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/pases.png" width="100%" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 10px;"/>
+<td width="50%" valign="top" style="padding: 10px;">
+<img src="https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/pases.png" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: block; margin: 0 auto;"/>
 <br/>
 <sub><b>Phases Management</b><br/>Color-coded phase visualization</sub>
 </td>
-<td width="50%" valign="top">
-<img src="https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/rool-permition.png" width="100%" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 10px;"/>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding: 10px;" colspan="2">
+<img src="https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/rool-permition.png" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: block; margin: 0 auto;"/>
 <br/>
 <sub><b>Role Permissions</b><br/>RBAC with granular control</sub>
 </td>
