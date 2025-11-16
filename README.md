@@ -44,40 +44,36 @@ A comprehensive e-commerce solution built with modern web technologies.
 
 ---
 
-### 🔹 Task Manager - Laravel 11 Project Management System
+### 🔹 [Task Manager - Laravel 11 Project Management System](https://github.com/parthKathireeya/taskManage)
 
-A **comprehensive, full-featured** task and project management system built with **Laravel 11**, featuring real-time chat, notifications, role-based access control, and a modern WhatsApp-inspired UI.
+A comprehensive task and project management system built with **Laravel 11**, featuring real-time chat, notifications, role-based access control, and a modern WhatsApp-inspired UI.
 
 **🔑 Key Features:**
-- **Project Management** - Create, manage, and track multiple projects with multiple client assignments
-- **Task Management** - Comprehensive task system with priorities, phases, and team assignments
-- **Real-Time Chat** - WhatsApp-style chat interface with typing indicators and message status
-- **Real-Time Notifications** - Instant notifications via Pusher with database fallback
-- **Role-Based Access Control (RBAC)** - Powered by Spatie Laravel Permission with granular permissions
-- **Client & Team Management** - Full CRUD operations with automatic user creation
-- **File Management** - Automatic WebP conversion, image compression, and secure file storage
-- **Responsive Design** - Pixel-perfect responsive layout for all devices
+- Project & Task Management with multiple client assignments
+- Real-Time Chat (WhatsApp-style) with typing indicators
+- Real-Time Notifications via Pusher with database fallback
+- Role-Based Access Control (RBAC) with granular permissions
+- File Management with automatic WebP conversion
+- Responsive Design for all devices
 
-**🛠️ Tech Stack:**
-- **Backend:** Laravel 11, PHP 8.2+, MySQL
-- **Frontend:** Bootstrap 5, jQuery, Vanilla JavaScript
-- **Real-Time:** Pusher, Laravel Echo, WebSockets
-- **Security:** Spatie Laravel Permission, RBAC, Secure File Access
-- **Additional:** Select2, Toastr, Skeleton Loaders
+**🛠️ Tech Stack:** Laravel 11, PHP 8.2+, MySQL, Bootstrap 5, jQuery, Pusher, Spatie Permission
 
 **📸 Screenshots:**
-- Login page with clean, minimalist design
-- Projects management with real-time chat overlay
-- Edit project form with multi-client assignment
-- Phases/Order management with color-coded visualization
-- Role & Permission management with granular control
 
-**🎯 Highlights:**
-- Modular architecture with Admin, Client, and Common modules
-- Event-driven notification system
-- Automatic polling fallback for real-time features
-- Permission-based data filtering
-- Optimized database queries and relationships
+![Login Page](https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/login.png)
+*Clean and minimalist login form with email and password fields.*
+
+![Projects Management with Chat](https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/chate-bot.png)
+*Projects list with multiple client assignments and real-time chat overlay accessible via FAB button.*
+
+![Edit Project Form](https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/edit-project.png.png)
+*Edit project form with multi-client selection, priority dropdown, and date fields.*
+
+![Phases Management](https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/pases.png)
+*Project phases management with color-coded visualization and task statistics.*
+
+![Role Permissions](https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/rool-permition.png)
+*Comprehensive RBAC system for editing role permissions with granular control.*
 
 ---
 
