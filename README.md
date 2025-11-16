@@ -60,20 +60,41 @@ A comprehensive task and project management system built with **Laravel 11**, fe
 
 **📸 Screenshots:**
 
-![Login Page](https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/login.png)
-*Clean and minimalist login form with email and password fields.*
+<div align="center">
 
-![Projects Management with Chat](https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/chate-bot.png)
-*Projects list with multiple client assignments and real-time chat overlay accessible via FAB button.*
+<table>
+<tr>
+<td width="33.33%" valign="top">
+<img src="https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/login.png" width="100%" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 10px;"/>
+<br/>
+<sub><b>Login Page</b><br/>Clean and minimalist login form</sub>
+</td>
+<td width="33.33%" valign="top">
+<img src="https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/chate-bot.png" width="100%" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 10px;"/>
+<br/>
+<sub><b>Projects with Chat</b><br/>Real-time chat overlay with FAB</sub>
+</td>
+<td width="33.33%" valign="top">
+<img src="https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/edit-project.png.png" width="100%" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 10px;"/>
+<br/>
+<sub><b>Edit Project Form</b><br/>Multi-client assignment interface</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/pases.png" width="100%" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 10px;"/>
+<br/>
+<sub><b>Phases Management</b><br/>Color-coded phase visualization</sub>
+</td>
+<td width="50%" valign="top">
+<img src="https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/rool-permition.png" width="100%" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 10px;"/>
+<br/>
+<sub><b>Role Permissions</b><br/>RBAC with granular control</sub>
+</td>
+</tr>
+</table>
 
-![Edit Project Form](https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/edit-project.png.png)
-*Edit project form with multi-client selection, priority dropdown, and date fields.*
-
-![Phases Management](https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/pases.png)
-*Project phases management with color-coded visualization and task statistics.*
-
-![Role Permissions](https://github.com/parthKathireeya/taskManage/raw/main/public/screenshots/rool-permition.png)
-*Comprehensive RBAC system for editing role permissions with granular control.*
+</div>
 
 ---
 
